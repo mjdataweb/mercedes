@@ -77,9 +77,11 @@ Les contributions sont les bienvenues ! Si vous souhaitez signaler un problème 
 
 ---
 
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/258edaea-3011-4a12-9457-38e3421fe9ae" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/3795c921-6c6d-453a-9ee5-de3038d2be16" />
+
 
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/c46fd1ed-7bcf-42bb-b82e-578502007529" />
+
 
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/e0f4a68a-12bd-4c02-89b4-beda220cd979" />
 
